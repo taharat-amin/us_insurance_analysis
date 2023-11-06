@@ -182,6 +182,8 @@ Frequency distribution shows the distribution of the samples among different gro
 
 ## Summary Statistics
 <div align="center">
+
+<b> Central Tendency </b>
 <table style="width: 70%;">
   <tr>
     <th style="width: 20%;">Statistic</th>
@@ -199,21 +201,14 @@ Frequency distribution shows the distribution of the samples among different gro
   </tr>
   <tr>
     <td>Median</td>
-    <td>39.0</td>
+    <td>39.0s</td>
     <td>30.4</td>
     <td>1.0</td>
     <td>9388.75</td>
   </tr>
-  <tr>
-    <td>Standard Deviation</td>
-    <td>14.04</td>
-    <td>6.1</td>
-    <td>1.21</td>
-    <td>12105.48</td>
-  </tr>
 </table>
 
-<b>Quartiles<b>
+<b>Quartiles</b>
 <table style="width: 40%;">
   <tr>
     <th>Variable</th>
@@ -244,6 +239,35 @@ Frequency distribution shows the distribution of the samples among different gro
     <td>4742.31</td>
     <td>9388.75</td>
     <td>16717.01</td>
+  </tr>
+</table>
+
+<b>Standard Deviation and Interquartile Range (QD)</b>
+<table style="width: 40%;">
+  <tr>
+    <th>Variable</th>
+    <th>Standard Deviation</th>
+    <th>Interquartile Range (QD)</th>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>14.04</td>
+    <td>39.0</td>
+  </tr>
+  <tr>
+    <td>BMI</td>
+    <td>6.1</td>
+    <td>30.5</td>
+  </tr>
+  <tr>
+    <td>Number of Children</td>
+    <td>1.21</td>
+    <td>1.0</td>
+  </tr>
+  <tr>
+    <td>Insurance Charges (in dollars)</td>
+    <td>12105.48</td>
+    <td>10729.66</td>
   </tr>
 </table>
 
