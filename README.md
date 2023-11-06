@@ -340,6 +340,7 @@ Correlation coefficients signify two aspects of the relationship between two var
 It is clear that when coefficient is 0 there exists no correlation.
 
 </div align="center">
+
 <b>Covariance</b>
 <table style="width: 50%;">
   <tr>
@@ -411,6 +412,7 @@ It is clear that when coefficient is 0 there exists no correlation.
     <td>-0.01</td>
   </tr>
 </table>
+
 </div>
 
 ## Analysis and Conclusion
