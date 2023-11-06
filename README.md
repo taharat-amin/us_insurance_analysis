@@ -192,14 +192,14 @@ Frequency distribution shows the distribution of the samples among different gro
   </tr>
   <tr>
     <td>Mean</td>
-    <td>39.21</td>
+    <td>39.21 years</td>
     <td>30.66</td>
     <td>1.09</td>
     <td>13270.42</td>
   </tr>
   <tr>
     <td>Median</td>
-    <td>39.0</td>
+    <td>39.0 years</td>
     <td>30.4</td>
     <td>1.0</td>
     <td>9388.75</td>
@@ -213,31 +213,38 @@ Frequency distribution shows the distribution of the samples among different gro
   </tr>
 </table>
 
-<h3>Quartiles</h3>
-<table style="width: 30%;">
+<b>Quartiles<b>
+<table style="width: 40%;">
   <tr>
-    <th>Age</th>
-    <td>Q1 = 27.0</td>
-    <td>Q2 = 39.0</td>
-    <td>Q3 = 51.0</td>
+    <th>Variable</th>
+    <th>Q1</th>
+    <th>Q2</th>
+    <th>Q3</th>
   </tr>
   <tr>
-    <th>BMI</th>
-    <td>Q1 = 26.3</td>
-    <td>Q2 = 30.4</td>
-    <td>Q3 = 34.7</td>
+    <td>Age</td>
+    <td>27.0</td>
+    <td>39.0</td>
+    <td>51.0</td>
   </tr>
   <tr>
-    <th>Number of Children</th>
-    <td>Q1 = 0.0</td>
-    <td>Q2 = 1.0</td>
-    <td>Q3 = 2.0</td>
+    <td>BMI</td>
+    <td>26.3</td>
+    <td>30.4</td>
+    <td>34.7</td>
   </tr>
   <tr>
-    <th>Insurance Charges (in dollars)</th>
-    <td>Q1 = 4742.31</td>
-    <td>Q2 = 9388.75</td>
-    <td>Q3 = 16717.01</td>
+    <td>Number of Children</td>
+    <td>0.0</td>
+    <td>1.0</td>
+    <td>2.0</td>
+  </tr>
+  <tr>
+    <td>Insurance Charges (in dollars)</td>
+    <td>4742.31</td>
+    <td>9388.75</td>
+    <td>16717.01</td>
   </tr>
 </table>
+
 </div>
