@@ -12,15 +12,15 @@ The dataset contained **1,338** samples which had the following data types
 
 :
 
-|:Variable: | :Data Type: | :Variable Type: |
-|-|-|-|
-| `age` | int | Scale |
-| `sex` | bool (0 for 'male' and 1 for 'female') | Nominal |
-| `bmi` | float | Ratio |
-| `children` | int | Ordinal |
-| `smoker` | bool (0 for 'no' and 1 for 'yes') | Nominal |
-| `region` | int (1 for 'northeast', 2 for 'northwest' , <br>3 for 'southeast', 4 for 'southwest') | Nominal |
-| `charges` | float | Ratio |
+| :Variable: | :Data Type:                                                                           | :Variable Type: |
+| ---------- | ------------------------------------------------------------------------------------- | --------------- |
+| `age`      | int                                                                                   | Scale           |
+| `sex`      | bool (0 for 'male' and 1 for 'female')                                                | Nominal         |
+| `bmi`      | float                                                                                 | Ratio           |
+| `children` | int                                                                                   | Ordinal         |
+| `smoker`   | bool (0 for 'no' and 1 for 'yes')                                                     | Nominal         |
+| `region`   | int (1 for 'northeast', 2 for 'northwest' , <br>3 for 'southeast', 4 for 'southwest') | Nominal         |
+| `charges`  | float                                                                                 | Ratio           |
 
 :
 
@@ -148,5 +148,34 @@ Frequency distribution shows the distribution of the samples among different gro
 <td>No</td>
 <td>1,064</td>
 <td>79.52%</td>
+</tr>
+</table>
+
+<b> Regional Distribution </b>
+<table style="width:100%; text-align:center;">
+<tr>
+<th>Region</th>
+<th>Number</th>
+<th>% of Respondents</th>
+</tr>
+<tr>
+<td>Northeast</td>
+<td>324</td>
+<td>24.22%</td>
+</tr>
+<tr>
+<td>Northwest</td>
+<td>325</td>
+<td>24.29%</td>
+</tr>
+<tr>
+<td>Southeast</td>
+<td>364</td>
+<td>27.20%</td>
+</tr>
+<tr>
+<td>Southwest</td>
+<td>325</td>
+<td>24.29%</td>
 </tr>
 </table>
