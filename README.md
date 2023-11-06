@@ -192,14 +192,14 @@ Frequency distribution shows the distribution of the samples among different gro
   </tr>
   <tr>
     <td>Mean</td>
-    <td>39.21 years</td>
+    <td>39.21</td>
     <td>30.66</td>
     <td>1.09</td>
     <td>13270.42</td>
   </tr>
   <tr>
     <td>Median</td>
-    <td>39.0 years</td>
+    <td>39.0</td>
     <td>30.4</td>
     <td>1.0</td>
     <td>9388.75</td>
