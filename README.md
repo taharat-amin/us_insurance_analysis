@@ -108,3 +108,26 @@ Frequency distribution shows the distribution of the samples among different gro
 
 
 </div>
+
+### 2. Ungrouped Frequency Distribution
+
+<div align="center">
+
+<b> Distribution of Sex </b>
+<table style="width:100%; text-align:center;">
+<tr>
+<th>Sex</th>
+<th>Number</th>
+<th>% of Respondents</th>
+</tr>
+<tr>
+<td>Male</td>
+<td>676</td>
+<td>50.52%</td>
+</tr>
+<tr>
+<td>Female</td>
+<td>662</td>
+<td>49.48%</td>
+</tr>
+</table>
