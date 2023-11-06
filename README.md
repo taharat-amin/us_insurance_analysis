@@ -131,3 +131,22 @@ Frequency distribution shows the distribution of the samples among different gro
 <td>49.48%</td>
 </tr>
 </table>
+
+<b> Distribution of Smoker </b>
+<table style="width:100%; text-align:center;">
+<tr>
+<th>Smoker?</th>
+<th>Number</th>
+<th>% of Respondents</th>
+</tr>
+<tr>
+<td>Yes</td>
+<td>274</td>
+<td>20.48%</td>
+</tr>
+<tr>
+<td>No</td>
+<td>1,064</td>
+<td>79.52%</td>
+</tr>
+</table>
