@@ -300,4 +300,28 @@ Frequency distribution shows the distribution of the samples among different gro
   </tr>
 </table>
 
+<b>Skewness</b>
+<table style="width: 50%;">
+  <tr>
+    <th>Variable</th>
+    <th>Skewness</th>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>0.0</td>
+  </tr>
+  <tr>
+    <td>BMI</td>
+    <td>0.02</td>
+  </tr>
+  <tr>
+    <td>Number of Children</td>
+    <td>0.0</td>
+  </tr>
+  <tr>
+    <td>Insurance Charges (in dollars)</td>
+    <td>0.22</td>
+  </tr>
+</table>
+
 </div>
