@@ -181,13 +181,13 @@ Frequency distribution shows the distribution of the samples among different gro
 </table>
 
 ## Summary Statistics
-<table>
+<table style="width: 70%;">
   <tr>
-    <th>Statistic</th>
-    <th>Age</th>
-    <th>BMI</th>
-    <th>Number of Children</th>
-    <th>Insurance Charges (in dollars)</th>
+    <th style="width: 20%;">Statistic</th>
+    <th style="width: 20%;">Age</th>
+    <th style="width: 20%;">BMI</th>
+    <th style="width: 20%;">Number of Children</th>
+    <th style="width: 20%;">Insurance Charges (in dollars)</th>
   </tr>
   <tr>
     <td>Mean</td>
