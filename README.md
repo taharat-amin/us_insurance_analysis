@@ -31,7 +31,7 @@ Frequency distribution shows the distribution of the samples among different gro
 
 <div align="center">
 
-<h3>Frequency Distribution of Age</h3>
+<b>Frequency Distribution of Age</b>
 
 <table style="width:100%; text-align:center;">
   <tr>
@@ -81,7 +81,7 @@ Frequency distribution shows the distribution of the samples among different gro
   </tr>
 </table>
 
-<h3>Frequency Distribution of Children</h3>
+<b>Frequency Distribution of Children</b>
 
 <table style="width:100%; text-align:center;">
   <tr>
