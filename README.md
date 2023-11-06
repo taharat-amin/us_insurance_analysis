@@ -10,19 +10,50 @@ git clone https://github.com/taharat-amin/us_insurance_analysis.git
 
 The dataset contained **1,338** samples which had the following data types
 
-:
-
-| :Variable: | :Data Type:                                                                           | :Variable Type: |
-| ---------- | ------------------------------------------------------------------------------------- | --------------- |
-| `age`      | int                                                                                   | Scale           |
-| `sex`      | bool (0 for 'male' and 1 for 'female')                                                | Nominal         |
-| `bmi`      | float                                                                                 | Ratio           |
-| `children` | int                                                                                   | Ordinal         |
-| `smoker`   | bool (0 for 'no' and 1 for 'yes')                                                     | Nominal         |
-| `region`   | int (1 for 'northeast', 2 for 'northwest' , <br>3 for 'southeast', 4 for 'southwest') | Nominal         |
-| `charges`  | float                                                                                 | Ratio           |
-
-:
+<div align="center">
+<table>
+  <tr>
+    <th>Variable</th>
+    <th>Data Type</th>
+    <th>Variable Type</th>
+  </tr>
+  <tr>
+    <td>`age`</td>
+    <td>int</td>
+    <td>Scale</td>
+  </tr>
+  <tr>
+    <td>`sex`</td>
+    <td>bool (0 for 'male' and 1 for 'female')</td>
+    <td>Nominal</td>
+  </tr>
+  <tr>
+    <td>`bmi`</td>
+    <td>float</td>
+    <td>Ratio</td>
+  </tr>
+  <tr>
+    <td>`children`</td>
+    <td>int</td>
+    <td>Ordinal</td>
+  </tr>
+  <tr>
+    <td>`smoker`</td>
+    <td>bool (0 for 'no' and 1 for 'yes')</td>
+    <td>Nominal</td>
+  </tr>
+  <tr>
+    <td>`region`</td>
+    <td>int (1 for 'northeast', 2 for 'northwest',<br>3 for 'southeast', 4 for 'southwest')</td>
+    <td>Nominal</td>
+  </tr>
+  <tr>
+    <td>`charges`</td>
+    <td>float</td>
+    <td>Ratio</td>
+  </tr>
+</table>
+</div>
 
 ## Frequency Distributio18ns
 Frequency distribution shows the distribution of the samples among different groups or ungrouped data.
