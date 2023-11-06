@@ -325,3 +325,86 @@ Frequency distribution shows the distribution of the samples among different gro
 </table>
 
 </div>
+
+## Covariance and Correlation
+
+The most significant part of any analysis, correlation shows the relationship between the independent variables and dependent variable. Since this analysis is not much rigorous, no regression model was developed. Only the individual relationship of independent variables and dependent variable is shown.
+
+As the subject matter of this analysis is regarding the medical insurance cost of in the US, the <u>dependent variable</u> is undoubtedly `charges` and the rest are independent.
+
+Correlation coefficients signify two aspects of the relationship between two variables, which are:
+
+- **Strength of relation**: Correlation coefficients range from -1 to 1. The closer the coefficient to 1 is (considering the absolute value), stronger the relation is.
+- **Direction of movement**: As mentioned earlier that the coefficient ranges from -1 to 1, positive value indicates that changes in independent variable will bring changes in similar direction for dependent variable and vice versa.
+
+It is clear that when coefficient is 0 there exists no correlation.
+
+<b>Covariance</b>
+<table style="width: 50%;">
+  <tr>
+    <th>Independent Variable</th>
+    <th>Covariance with Charges</th>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>50836.78</td>
+  </tr>
+  <tr>
+    <td>Sex</td>
+    <td>-346.76</td>
+  </tr>
+  <tr>
+    <td>BMI</td>
+    <td>14636.36</td>
+  </tr>
+  <tr>
+    <td>Children</td>
+    <td>991.93</td>
+  </tr>
+  <tr>
+    <td>Smoker</td>
+    <td>3845.79</td>
+  </tr>
+  <tr>
+    <td>Region</td>
+    <td>-83.01</td>
+  </tr>
+</table>
+<b>Pearson Correlation Coefficients</b>
+<table style="width: 50%;">
+  <tr>
+    <th>Variable 1</th>
+    <th>Variable 2</th>
+    <th>Pearson Coefficient</th>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>Charges</td>
+    <td>0.3</td>
+  </tr>
+  <tr>
+    <td>Sex</td>
+    <td>Charges</td>
+    <td>-0.06</td>
+  </tr>
+  <tr>
+    <td>BMI</td>
+    <td>Charges</td>
+    <td>0.2</td>
+  </tr>
+  <tr>
+    <td>Children</td>
+    <td>Charges</td>
+    <td>0.07</td>
+  </tr>
+  <tr>
+    <td>Smoker</td>
+    <td>Charges</td>
+    <td>0.79</td>
+  </tr>
+  <tr>
+    <td>Region</td>
+    <td>Charges</td>
+    <td>-0.01</td>
+  </tr>
+</table>
