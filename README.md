@@ -339,6 +339,7 @@ Correlation coefficients signify two aspects of the relationship between two var
 
 It is clear that when coefficient is 0 there exists no correlation.
 
+</div align="center">
 <b>Covariance</b>
 <table style="width: 50%;">
   <tr>
@@ -370,7 +371,9 @@ It is clear that when coefficient is 0 there exists no correlation.
     <td>-83.01</td>
   </tr>
 </table>
+
 <b>Pearson Correlation Coefficients</b>
+
 <table style="width: 50%;">
   <tr>
     <th>Variable 1</th>
@@ -408,3 +411,12 @@ It is clear that when coefficient is 0 there exists no correlation.
     <td>-0.01</td>
   </tr>
 </table>
+</div>
+
+## Analysis and Conclusion
+
+Based on the summary statistics, the variable `children` is most widely dispersed although it is normally distributed as its skewness is 0. `bmi` has the least dispersion and an insignificant skewness, making it the most common factor among all participants who have medical insurance. 
+
+When it comes to correlation with `charges`, the strongest correlation (0.79) goes to `smoker` implying that a smoker is charged higher for medical insurance. This also complies with our basic understanding that a smoker has higher risk of health problems and therefore need to pay higher premium. An insignificant correlation was observed among `sex`, `children`, and `region` with less than 0.1 correlation with dependent variable. This signifies that these three variables does not matter that much when determining insurance charges.
+
+Therefore, the conclusion of this analysis is that the medical insurance charges primarily depend on three factors, a person's `age`, their `bmi`, and whether they are `smoker` or not.
