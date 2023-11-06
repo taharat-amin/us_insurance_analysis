@@ -271,4 +271,33 @@ Frequency distribution shows the distribution of the samples among different gro
   </tr>
 </table>
 
+<b>Measure of Relative Variation</b>
+<table style="width: 50%;">
+  <tr>
+    <th>Variable</th>
+    <th>CV (Coefficient of Variation)</th>
+    <th>CQD (Coefficient of Quartile Deviation)</th>
+  </tr>
+  <tr>
+    <td>Age</td>
+    <td>35.81</td>
+    <td>30.77</td>
+  </tr>
+  <tr>
+    <td>BMI</td>
+    <td>19.9</td>
+    <td>13.77</td>
+  </tr>
+  <tr>
+    <td>Number of Children</td>
+    <td>111.01</td>
+    <td>100.0</td>
+  </tr>
+  <tr>
+    <td>Insurance Charges (in dollars)</td>
+    <td>91.22</td>
+    <td>55.8</td>
+  </tr>
+</table>
+
 </div>
