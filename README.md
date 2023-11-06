@@ -29,6 +29,8 @@ Frequency distribution shows the distribution of the samples among different gro
 
 ### 1. Grouped frequency distribution
 
+<div align="center">
+
 <b>Frequency Distribution of Age</b>
 
 <table style="width:100%; text-align:center;">
@@ -103,3 +105,6 @@ Frequency distribution shows the distribution of the samples among different gro
     <td>3.21%</td>
   </tr>
 </table>
+
+
+</div>
