@@ -24,7 +24,7 @@ The dataset contained **1,338** samples which had the following data types
 
 </div>
 
-## Frequency Distributio18ns
+## Frequency Distribution
 Frequency distribution shows the distribution of the samples among different groups or ungrouped data.
 
 ### 1. Grouped frequency distribution
@@ -109,7 +109,7 @@ Frequency distribution shows the distribution of the samples among different gro
 
 </div>
 
-### 2. Ungrouped Frequency Distribution
+### 2. Ungrouped frequency distribution
 
 <div align="center">
 
@@ -178,4 +178,43 @@ Frequency distribution shows the distribution of the samples among different gro
 <td>325</td>
 <td>24.29%</td>
 </tr>
+</table>
+
+## Summary Statistics
+<table>
+  <tr>
+    <th>Statistic</th>
+    <th>Age</th>
+    <th>BMI</th>
+    <th>Number of Children</th>
+    <th>Insurance Charges (in dollars)</th>
+  </tr>
+  <tr>
+    <td>Mean</td>
+    <td>39.21 years</td>
+    <td>30.66</td>
+    <td>1.09</td>
+    <td>13270.42</td>
+  </tr>
+  <tr>
+    <td>Median</td>
+    <td>39.0 years</td>
+    <td>30.4</td>
+    <td>1.0</td>
+    <td>9388.75</td>
+  </tr>
+  <tr>
+    <td>Standard Deviation</td>
+    <td>14.04</td>
+    <td>6.1</td>
+    <td>1.21</td>
+    <td>12105.48</td>
+  </tr>
+  <tr>
+    <td>Quartiles</td>
+    <td>Q1 = 27.0<br>Q2 = 39.0<br>Q3 = 51.0</td>
+    <td>Q1 = 26.3<br>Q2 = 30.4<br>Q3 = 34.7</td>
+    <td>Q1 = 0.0<br>Q2 = 1.0<br>Q3 = 2.0</td>
+    <td>Q1 = 4742.31<br>Q2 = 9388.75<br>Q3 = 16717.01</td>
+  </tr>
 </table>
