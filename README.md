@@ -42,4 +42,11 @@ Frequency distribution shows the distribution of the samples among different gro
 | <center>54-59</center> | <center>156</center> | <center>11.66</center> |
 | <center>60-65</center> | <center>114</center> | <center>8.52</center> |
 
+<u>Frequency Distribution of Children</u>
+| <center>Children</center> | <center>Frequency</center> | <center>% of Respondents</center> |
+|-|-|-|
+| <center>0-1</center> | <center>898</center> | <center>67.12</center> |
+| <center>2-3</center> | <center>397</center> | <center>29.67</center> |
+| <center>4-5</center> | <center>43</center> | <center>3.21</center> |
+
 </center>
