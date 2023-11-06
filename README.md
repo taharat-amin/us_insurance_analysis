@@ -105,8 +105,6 @@ Frequency distribution shows the distribution of the samples among different gro
     <td>3.21%</td>
   </tr>
 </table>
-
-
 </div>
 
 ### 2. Ungrouped frequency distribution
@@ -339,81 +337,80 @@ Correlation coefficients signify two aspects of the relationship between two var
 
 It is clear that when coefficient is 0 there exists no correlation.
 
-</div align="center">
+<div align="center">
+  <b>Covariance</b>
+  <table style="width: 50%; text-align: center;">
+    <tr>
+      <th>Independent Variable</th>
+      <th>Covariance with Charges</th>
+    </tr>
+    <tr>
+      <td>Age</td>
+      <td>50836.78</td>
+    </tr>
+    <tr>
+      <td>Sex</td>
+      <td>-346.76</td>
+    </tr>
+    <tr>
+      <td>BMI</td>
+      <td>14636.36</td>
+    </tr>
+    <tr>
+      <td>Children</td>
+      <td>991.93</td>
+    </tr>
+    <tr>
+      <td>Smoker</td>
+      <td>3845.79</td>
+    </tr>
+    <tr>
+      <td>Region</td>
+      <td>-83.01</td>
+    </tr>
+  </table>
 
-<b>Covariance</b>
-<table style="width: 50%;">
-  <tr>
-    <th>Independent Variable</th>
-    <th>Covariance with Charges</th>
-  </tr>
-  <tr>
-    <td>Age</td>
-    <td>50836.78</td>
-  </tr>
-  <tr>
-    <td>Sex</td>
-    <td>-346.76</td>
-  </tr>
-  <tr>
-    <td>BMI</td>
-    <td>14636.36</td>
-  </tr>
-  <tr>
-    <td>Children</td>
-    <td>991.93</td>
-  </tr>
-  <tr>
-    <td>Smoker</td>
-    <td>3845.79</td>
-  </tr>
-  <tr>
-    <td>Region</td>
-    <td>-83.01</td>
-  </tr>
-</table>
+  <b>Pearson Correlation Coefficients</b>
 
-<b>Pearson Correlation Coefficients</b>
-
-<table style="width: 50%;">
-  <tr>
-    <th>Variable 1</th>
-    <th>Variable 2</th>
-    <th>Pearson Coefficient</th>
-  </tr>
-  <tr>
-    <td>Age</td>
-    <td>Charges</td>
-    <td>0.3</td>
-  </tr>
-  <tr>
-    <td>Sex</td>
-    <td>Charges</td>
-    <td>-0.06</td>
-  </tr>
-  <tr>
-    <td>BMI</td>
-    <td>Charges</td>
-    <td>0.2</td>
-  </tr>
-  <tr>
-    <td>Children</td>
-    <td>Charges</td>
-    <td>0.07</td>
-  </tr>
-  <tr>
-    <td>Smoker</td>
-    <td>Charges</td>
-    <td>0.79</td>
-  </tr>
-  <tr>
-    <td>Region</td>
-    <td>Charges</td>
-    <td>-0.01</td>
-  </tr>
-</table>
-
+  <table style="width: 50%; text-align: center;">
+    <tr>
+      <th>Variable 1</th>
+      <th>Variable 2</th>
+      <th>Pearson Coefficient</th>
+    </tr>
+    <tr>
+      <td>Age</td>
+      <td>Charges</td>
+      <td>0.3</td>
+    </tr>
+    <tr>
+      <td>Sex</td>
+      <td>Charges</td>
+      <td>-0.06</td>
+    </tr>
+    <tr>
+      <td>BMI</td>
+      <td>Charges</td>
+      <td>0.2</td>
+    </tr>
+    <tr>
+      <td>Children</td>
+      <td>Charges</td>
+      <td>0.07</td>
+    </tr>
+    <tr>
+      <td>Smoker</td>
+      <td>Charges</td>
+      <td>0.79</td>
+    </tr>
+    <tr>
+      <td>Region</td>
+      <td>Charges</td>
+      <td>-0.01</td>
+    </tr>
+  </table>
 </div>
+
 
 ## Analysis and Conclusion
 
