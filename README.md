@@ -6,7 +6,7 @@ This repository contains analysis of a survey report conducted to gather data re
 git clone https://github.com/taharat-amin/us_insurance_analysis.git
 ```
 
-## <u>Part 1: Data Description</u>
+## Part 1: Data Description
 
 The dataset contained **1,338** samples which had the following data types
 
