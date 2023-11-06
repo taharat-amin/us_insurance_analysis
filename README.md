@@ -31,23 +31,80 @@ Frequency distribution shows the distribution of the samples among different gro
 
 <div align="center">
 
-Frequency Distribution of Age
-| :Age: | :Frequency: | :% of Respondents: |
-|-|-|-|
-| :18-23: | :250: | :18.68: |
-| :24-29: | :167: | :12.48: |
-| :30-35: | :157: | :11.73: |
-| :36-41: | :154: | :11.51: |
-| :42-47: | :168: | :12.56: |
-| :48-53: | :172: | :12.86: |
-| :54-59: | :156: | :11.66: |
-| :60-65: | :114: | :8.52: |
+<h3>Frequency Distribution of Age</h3>
 
-Frequency Distribution of Children
-| :Children: | :Frequency: | :% of Respondents: |
-|-|-|-|
-| :0-1: | :898: | :67.12: |
-| :2-3: | :397: | :29.67: |
-| :4-5: | :43: | :3.21: |
+<table style="width:100%; text-align:center;">
+  <tr>
+    <th>Age</th>
+    <th>Frequency</th>
+    <th>% of Respondents</th>
+  </tr>
+  <tr>
+    <td>18-23</td>
+    <td>250</td>
+    <td>18.68%</td>
+  </tr>
+  <tr>
+    <td>24-29</td>
+    <td>167</td>
+    <td>12.48%</td>
+  </tr>
+  <tr>
+    <td>30-35</td>
+    <td>157</td>
+    <td>11.73%</td>
+  </tr>
+  <tr>
+    <td>36-41</td>
+    <td>154</td>
+    <td>11.51%</td>
+  </tr>
+  <tr>
+    <td>42-47</td>
+    <td>168</td>
+    <td>12.56%</td>
+  </tr>
+  <tr>
+    <td>48-53</td>
+    <td>172</td>
+    <td>12.86%</td>
+  </tr>
+  <tr>
+    <td>54-59</td>
+    <td>156</td>
+    <td>11.66%</td>
+  </tr>
+  <tr>
+    <td>60-65</td>
+    <td>114</td>
+    <td>8.52%</td>
+  </tr>
+</table>
+
+<h3>Frequency Distribution of Children</h3>
+
+<table style="width:100%; text-align:center;">
+  <tr>
+    <th>Children</th>
+    <th>Frequency</th>
+    <th>% of Respondents</th>
+  </tr>
+  <tr>
+    <td>0-1</td>
+    <td>898</td>
+    <td>67.12%</td>
+  </tr>
+  <tr>
+    <td>2-3</td>
+    <td>397</td>
+    <td>29.67%</td>
+  </tr>
+  <tr>
+    <td>4-5</td>
+    <td>43</td>
+    <td>3.21%</td>
+  </tr>
+</table>
+
 
 </div>
