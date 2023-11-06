@@ -181,6 +181,7 @@ Frequency distribution shows the distribution of the samples among different gro
 </table></div>
 
 ## Summary Statistics
+<div align="center">
 <table style="width: 70%;">
   <tr>
     <th style="width: 20%;">Statistic</th>
@@ -191,14 +192,14 @@ Frequency distribution shows the distribution of the samples among different gro
   </tr>
   <tr>
     <td>Mean</td>
-    <td>39.21 years</td>
+    <td>39.21</td>
     <td>30.66</td>
     <td>1.09</td>
     <td>13270.42</td>
   </tr>
   <tr>
     <td>Median</td>
-    <td>39.0 years</td>
+    <td>39.0</td>
     <td>30.4</td>
     <td>1.0</td>
     <td>9388.75</td>
@@ -239,3 +240,4 @@ Frequency distribution shows the distribution of the samples among different gro
     <td>Q3 = 16717.01</td>
   </tr>
 </table>
+</div>
