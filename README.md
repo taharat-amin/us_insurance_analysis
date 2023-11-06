@@ -178,7 +178,7 @@ Frequency distribution shows the distribution of the samples among different gro
 <td>325</td>
 <td>24.29%</td>
 </tr>
-</table>
+</table></div>
 
 ## Summary Statistics
 <table style="width: 70%;">
@@ -210,11 +210,32 @@ Frequency distribution shows the distribution of the samples among different gro
     <td>1.21</td>
     <td>12105.48</td>
   </tr>
+</table>
+
+<h3>Quartiles</h3>
+<table style="width: 30%;">
   <tr>
-    <td>Quartiles</td>
-    <td>Q1 = 27.0<br>Q2 = 39.0<br>Q3 = 51.0</td>
-    <td>Q1 = 26.3<br>Q2 = 30.4<br>Q3 = 34.7</td>
-    <td>Q1 = 0.0<br>Q2 = 1.0<br>Q3 = 2.0</td>
-    <td>Q1 = 4742.31<br>Q2 = 9388.75<br>Q3 = 16717.01</td>
+    <th>Age</th>
+    <td>Q1 = 27.0</td>
+    <td>Q2 = 39.0</td>
+    <td>Q3 = 51.0</td>
+  </tr>
+  <tr>
+    <th>BMI</th>
+    <td>Q1 = 26.3</td>
+    <td>Q2 = 30.4</td>
+    <td>Q3 = 34.7</td>
+  </tr>
+  <tr>
+    <th>Number of Children</th>
+    <td>Q1 = 0.0</td>
+    <td>Q2 = 1.0</td>
+    <td>Q3 = 2.0</td>
+  </tr>
+  <tr>
+    <th>Insurance Charges (in dollars)</th>
+    <td>Q1 = 4742.31</td>
+    <td>Q2 = 9388.75</td>
+    <td>Q3 = 16717.01</td>
   </tr>
 </table>
