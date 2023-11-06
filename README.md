@@ -1,8 +1,14 @@
 # **U.S Medical Insurance Cost**
 
+This repository contains analysis of a survey report conducted to gather data regarding the cost of medical insurance in the United States. The data analysis file can be viewed by cloming this repo with the following command:
+
+```git
+git clone https://github.com/taharat-amin/us_insurance_analysis.git
+```
+
 ## <u>Part 1: Data Description</u>
 
-The dataset contained **1338** samples which had the following data types
+The dataset contained **1,338** samples which had the following data types
 
 <center>
 
