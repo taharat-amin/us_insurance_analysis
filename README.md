@@ -189,8 +189,8 @@ Frequency distribution shows the distribution of the samples among different gro
     <th style="width: 20%;">Statistic</th>
     <th style="width: 20%;">Age</th>
     <th style="width: 20%;">BMI</th>
-    <th style="width: 20%;">Number of Children</th>
-    <th style="width: 20%;">Insurance Charges (in dollars)</th>
+    <th style="width: 20%;">Children</th>
+    <th style="width: 20%;">Charges</th>
   </tr>
   <tr>
     <td>Mean</td>
@@ -229,24 +229,24 @@ Frequency distribution shows the distribution of the samples among different gro
     <td>34.7</td>
   </tr>
   <tr>
-    <td>Number of Children</td>
+    <td>Children</td>
     <td>0.0</td>
     <td>1.0</td>
     <td>2.0</td>
   </tr>
   <tr>
-    <td>Insurance Charges (in dollars)</td>
+    <td>Charges</td>
     <td>4742.31</td>
     <td>9388.75</td>
     <td>16717.01</td>
   </tr>
 </table>
 
-<b>Standard Deviation and Interquartile Range (QD)</b>
+<b>Measures of Dispersion</b>
 <table style="width: 40%;">
   <tr>
     <th>Variable</th>
-    <th>Standard Deviation</th>
+    <th>Standard Deviation (SD)</th>
     <th>Interquartile Range (QD)</th>
   </tr>
   <tr>
@@ -260,12 +260,12 @@ Frequency distribution shows the distribution of the samples among different gro
     <td>30.5</td>
   </tr>
   <tr>
-    <td>Number of Children</td>
+    <td>Children</td>
     <td>1.21</td>
     <td>1.0</td>
   </tr>
   <tr>
-    <td>Insurance Charges (in dollars)</td>
+    <td>Charges</td>
     <td>12105.48</td>
     <td>10729.66</td>
   </tr>
