@@ -1,8 +1,8 @@
 # **U.S Medical Insurance Cost**
 
-## <u>Part 1: Data Reading and Preparation</u>
+## <u>Part 1: Data Description</u>
 
-The `csv` module is imported to read raw data from the `insurance.csv` file using `csv.DictReader()` method. Initially all data are in string format. Therefore, the processed data is added to the `dataset` list by typecasting the variables in the following manner:
+The dataset contained **1338** samples which had the following data types
 
 <center>
 
@@ -17,9 +17,3 @@ The `csv` module is imported to read raw data from the `insurance.csv` file usin
 | `charges` | float | Ratio |
 
 </center>
-
-Identified the regions uniquely by first separating the `region` column in the `insurance.csv` to `regions.txt` file. Then the following command was executed in terminal to get the unique names of the regions:
-```
-sort regions.txt | uniq
-```
-This command gave the unique names of the regions based on which the numeric codes were provided.
